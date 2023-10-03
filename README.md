@@ -1,10 +1,9 @@
-Certainly! Here's a README file for your project:
 
 ---
 
-# Wave Effect Video Generator
+# Script to create wave effect from an image
 
-This program generates a video with a wave effect applied to an input image. The wave effect simulates a rippling motion that intensifies towards the bottom of the image.
+This script generates a video with a wave effect applied to an input image. The wave effect simulates a rippling motion that intensifies towards the bottom of the image.
 
 ## How it Works
 
