@@ -36,7 +36,7 @@ The program uses OpenCV to read an input image and creates a video by applying a
 
 ### Input and Output
 
-- **Input Image**: `lake.jpg` (Replace with your preferred image)![lake.jpg](lake.jpg)
+- **Input Image**: `lake.jpg` (Replace with your preferred image) ![lake.jpg](lake.jpg)
 - **Output Video**: `output_video.mp4` (The generated video with the wave effect applied) ![output_video_to-gif.gif](output_video_to-gif.gif)
 ## Acknowledgment
 
